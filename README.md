@@ -1,6 +1,14 @@
 # nlp-on-e-commerce-reviews
 Dataset investigation and testing of multiple ML approaches from supervised to unsupervised learning on the versatile Women's E-Commerce Clothing Reviews dataset released from Kaggle. Main focus on NLP.
 
+Notebooks in this repository:
+
+DataExploration.ipynb: Run this first to get an understanding about the data.
+
+SupervisedLearning.ipynb: Check this out if you are interested in supervised learning and AutoML.
+
+--NLP to be added
+
 The dataset can be downloaded from https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
 The Kaggle description:
