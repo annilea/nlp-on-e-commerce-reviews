@@ -7,7 +7,7 @@ DataExploration.ipynb: Run this first to get an understanding about the data.
 
 SupervisedLearning.ipynb: Check this out if you are interested in supervised learning and AutoML.
 
-UnsupervisedLearning_NLP: This notebook has an implementation for finding topics from review texts using Latent Dirichlet Allocation (LDA)
+UnsupervisedLearning_NLP.ipynb: This notebook has an implementation for finding topics from review texts using Latent Dirichlet Allocation (LDA)
 
 The dataset can be downloaded from https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
