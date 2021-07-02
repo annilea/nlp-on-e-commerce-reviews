@@ -9,6 +9,18 @@ SupervisedLearning.ipynb: Check this out if you are interested in supervised lea
 
 UnsupervisedLearning_NLP.ipynb: This notebook has an implementation for finding topics from review texts using Latent Dirichlet Allocation (LDA)
 
+Notebooks were run on Google Colab
+Python version: 3.7.10
+package versions:
+pandas==1.2.5
+numpy==1.21.0
+spacy==2.2.4
+en-core-web-sm==2.2.5
+gensim==3.6.0
+nltk==3.2.5
+pyLDAvis==3.3.1
+scikit-learn==0.22.2.post1 
+
 The dataset can be downloaded from https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
 The Kaggle description:
