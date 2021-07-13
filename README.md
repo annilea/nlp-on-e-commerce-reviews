@@ -1,18 +1,21 @@
 # nlp-on-e-commerce-reviews
 Dataset investigation and testing of multiple ML approaches from supervised to unsupervised learning on the versatile Women's E-Commerce Clothing Reviews dataset released from Kaggle. Main focus on NLP.
 
-Notebooks in this repository:
+## Files in this repository:
 
-DataExploration.ipynb: Run this first to get an understanding about the data.
+* Notebooks
 
-SupervisedLearning.ipynb: Check this out if you are interested in supervised learning and AutoML.
+  * DataExploration.ipynb: Run this first to get an understanding about the data.
 
-UnsupervisedLearning_NLP.ipynb: This notebook has an implementation for finding topics from review texts using Latent Dirichlet Allocation (LDA)
+  * SupervisedLearning.ipynb: Check this out if you are interested in supervised learning and AutoML.
 
-Project summary.pptx is a powerpoint file collecting together all the results from the three notebooks.
+  * UnsupervisedLearning_NLP.ipynb: This notebook has an implementation for finding topics from review texts using Latent Dirichlet Allocation (LDA)
 
-Notebooks were run on Google Colab
-Python version: 3.7.10
+* Project summary.pptx is a powerpoint file collecting together all the results from the three notebooks.
+
+## How to
+
+Notebooks were run on Google Colab with Python version: 3.7.10
 package versions:
 pandas==1.2.5
 numpy==1.21.0
@@ -25,7 +28,7 @@ scikit-learn==0.22.2.post1
 
 The dataset can be downloaded from https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
-The Kaggle description:
+## The Kaggle description of the data:
 
 Welcome. This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Its nine supportive features offer a great environment to parse out the text through its multiple dimensions. Because this is real commercial data, it has been anonymized, and references to the company in the review text and body have been replaced with “retailer”.
 
@@ -43,3 +46,7 @@ Positive Feedback Count: Positive Integer documenting the number of other custom
 Division Name: Categorical name of the product high level division.
 Department Name: Categorical name of the product department name.
 Class Name: Categorical name of the product class name.
+
+## Results
+
+Check https://github.com/annilea/nlp-on-e-commerce-reviews/blob/main/Project%20summary.pptx
