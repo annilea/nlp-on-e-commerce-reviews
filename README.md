@@ -9,6 +9,8 @@ SupervisedLearning.ipynb: Check this out if you are interested in supervised lea
 
 UnsupervisedLearning_NLP.ipynb: This notebook has an implementation for finding topics from review texts using Latent Dirichlet Allocation (LDA)
 
+Project summary.pptx is a powerpoint file collecting together all the results from the three notebooks.
+
 Notebooks were run on Google Colab
 Python version: 3.7.10
 package versions:
