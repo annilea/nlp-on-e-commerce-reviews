@@ -49,4 +49,10 @@ Class Name: Categorical name of the product class name.
 
 ## Results
 
-Check https://github.com/annilea/nlp-on-e-commerce-reviews/blob/main/Project%20summary.pptx
+Check out the presentation https://github.com/annilea/nlp-on-e-commerce-reviews/blob/main/Project%20summary.pptx
+Topics found:
+<img width="446" alt="image" src="https://user-images.githubusercontent.com/84013721/125407097-38bcf400-e3c2-11eb-9bb9-97a4bb281f2f.png">
+where topic_names ={0:'dresses and fabric', 1:'wearing and season', 2:'tops and tees', 3:'bottoms', 4:'love the style', 5:'size’}
+
+
+
